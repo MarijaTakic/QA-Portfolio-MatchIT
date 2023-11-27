@@ -1,4 +1,4 @@
-﻿**Bug reports**
+<hr>﻿**Bug reports**<hr>
 
 **1.**
 
@@ -27,8 +27,10 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Severity:** Low
 
 **Attachment:** 
-**
+![WhatsApp Image 2023-11-27 at 17 37 45 (1)](https://github.com/MarijaTakic/QA-portfolio-/assets/149474370/2a45a97d-c5ec-4f10-afb7-866453af0560)
+![WhatsApp Image 2023-11-27 at 17 37 45](https://github.com/MarijaTakic/QA-portfolio-/assets/149474370/41e6969e-dd8c-4716-b0da-f2ccaafe11ea)
 
+<hr>
 
 
 
@@ -63,7 +65,7 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **Attachment:** 
 <https://drive.google.com/file/d/1znrC7kUvc3lwFFezHwELRaSg_7qJwlIE/view?usp=drive_link> 
-
+<hr>
 
 
 
@@ -107,7 +109,10 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Severity:** High
 
 **Attachment:**
+![8](https://github.com/MarijaTakic/QA-portfolio-/assets/149474370/3b2759dc-fa90-46ef-96bd-d57f1c881939)
+![9](https://github.com/MarijaTakic/QA-portfolio-/assets/149474370/10ce53c4-0045-42b7-bc9a-4a1b6d30b2d2)
 
+<hr>
 
 **4.**
 
@@ -138,7 +143,7 @@ Telephone model: Xiaomi Redmi Note 9 pro.
 
 **Attachment:** 
 <https://drive.google.com/file/d/1TNVc-AV_wvaU7OlSst9HbEBY9CJSJIXI/view?usp=drive_link> 
-
+<hr>
 
 
 
@@ -189,3 +194,4 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Attachment:** 
 
 <https://drive.google.com/file/d/1-O_75NPDstV33Kp-wzcqv0PVfIdELVX2/view?usp=drive_link> 
+<hr>
