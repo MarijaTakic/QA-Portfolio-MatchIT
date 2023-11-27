@@ -64,7 +64,7 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Severity:** Medium
 
 **Attachment:** 
-[<https://drive.google.com/file/d/1znrC7kUvc3lwFFezHwELRaSg_7qJwlIE/view?usp=drive_link> ](https://github.com/MarijaTakic/QA-portfolio-/blob/main/Video%20for%20bug%20report%20number%202.mp4)
+https://github.com/MarijaTakic/QA-portfolio-/blob/main/Video%20for%20bug%20report%20number%202.mp4
 <hr>
 
 
@@ -142,7 +142,7 @@ Telephone model: Xiaomi Redmi Note 9 pro.
 **Severity:** High
 
 **Attachment:** 
-[<https://drive.google.com/file/d/1TNVc-AV_wvaU7OlSst9HbEBY9CJSJIXI/view?usp=drive_link> ](https://github.com/MarijaTakic/QA-portfolio-/blob/main/Video%20for%20bug%20report%20number%204.mp4)
+https://github.com/MarijaTakic/QA-portfolio-/blob/main/Video%20for%20bug%20report%20number%204.mp4
 <hr>
 
 
@@ -192,6 +192,5 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Severity:** Medium
 
 **Attachment:** 
-
-[<https://drive.google.com/file/d/1-O_75NPDstV33Kp-wzcqv0PVfIdELVX2/view?usp=drive_link> ](https://github.com/MarijaTakic/QA-portfolio-/blob/main/Video%20for%20bug%20report%20number%205.mp4)https://github.com/MarijaTakic/QA-portfolio-/blob/main/Video%20for%20bug%20report%20number%205.mp4
+https://github.com/MarijaTakic/QA-portfolio-/blob/main/Video%20for%20bug%20report%20number%205.mp4
 <hr>
