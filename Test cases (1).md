@@ -1,4 +1,4 @@
-﻿Test cases
+**﻿Test cases**
 
 
 Decision table
@@ -9,39 +9,39 @@ Decision table
 |Email (T/F)|F|T|
 |Output (E/H)|E|H|
 
-T - Correct email
-F - Wrong email
-E - Error message is displayed
-H - Home page is displayed
+**T** - Correct email
+**F** - Wrong email
+**E** - Error message is displayed
+**H** - Home page is displayed
 
 
-- Case 1: Email was wrong. The user is shown an error message.
-- Case 2: Email was correct. The user navigated to the homepage.
+**- Case 1:** Email was wrong. The user is shown an error message.
+**- Case 2:** Email was correct. The user navigated to the homepage.
 
 
 
-1\.
+**1\.**
 
-Test Case ID: TC1
+**Test Case ID:** TC1
 
-Test Case name: Registration with an invalid email.
+**Test Case name:** Registration with an invalid email.
 
-Description: User cannot log in to the application with an invalid email.
+**Description:** User cannot log in to the application with an invalid email.
 
 
 ||Test Steps|Test Data|Expected Result|
 | :- | :- | :- | :- |
 |1\.|Open the mobile application “MatchIT”.||Application is opened. Log in screen with email field is displayed.|
-|2\.|Enter invalid email in the email field. |123|` `The provided value is displayed in the email field. Email field is filled in with provided invalid email.|
+|2\.|Enter invalid email in the email field. |123|The provided value is displayed in the email field. Email field is filled in with provided invalid email.|
 |3\.|Click the “NASTAVI DALJE” button.||The user stayed on the same page and did not log in. The frame of the email field is red.|
 
-2\.
+**2\.**
 
-Test Case ID: TC2
+**Test Case ID:** TC2
 
-Test Case name: Successful registration
+**Test Case name:** Successful registration
 
-Description: Successful user registration to the application with a valid email.
+**Description:** Successful user registration to the application with a valid email.
 
 
 ||Test Steps|Test Data|Expected Result|
@@ -65,13 +65,13 @@ Description: Successful user registration to the application with a valid email.
 
 
 
-3\.
+**3\.**
 
-Test Case ID: TC3
+**Test Case ID:** TC3
 
-Test Case name: Registration with an empty email field.
+**Test Case name:** Registration with an empty email field.
 
-Description: User can’t login to the application with an empty email field.
+**Description:** User can’t login to the application with an empty email field.
 
 
 ||Test Steps|Test Data|Expected Result|
@@ -82,15 +82,15 @@ Description: User can’t login to the application with an empty email field.
 
 
 
-4\.
+**4\.**
 
-Test Case ID: TC4
+**Test Case ID:** TC4
 
-Test Case name: Logout
+**Test Case name:** Logout
 
-Description: User logout from the application.
+**Description:** User logout from the application.
 
-Precondition:
+**Precondition:**
 
 1. User navigated to the URL.
 1. User is logged in and the application is opened. 
@@ -107,15 +107,15 @@ Precondition:
 
 
 
-5\.
+**5\.**
 
-Test Case ID: TC5
+**Test Case ID:** TC5
 
-Test Case name: Adding a certificate
+**Test Case name:** Adding a certificate
 
-Description: Successfully added certificate with all fields validly filled.
+**Description:** Successfully added certificate with all fields validly filled.
 
-Precondition:
+**Precondition:**
 
 1. User navigated to the URL.
 1. User is logged in and the application is opened. 
