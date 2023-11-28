@@ -1,7 +1,7 @@
-**﻿Test cases**
+**﻿Test cases**<hr>
 
 
-Decision table
+**Decision table**
 
 
 |Conditions|Rule 1|Rule 2|
@@ -34,6 +34,7 @@ Decision table
 |1\.|Open the mobile application “MatchIT”.||Application is opened. Log in screen with email field is displayed.|
 |2\.|Enter invalid email in the email field. |123|The provided value is displayed in the email field. Email field is filled in with provided invalid email.|
 |3\.|Click the “NASTAVI DALJE” button.||The user stayed on the same page and did not log in. The frame of the email field is red.|
+<hr>
 
 **2\.**
 
@@ -49,7 +50,7 @@ Decision table
 |1\.|Open the mobile application “MatchIT”.||Application is opened. Log in screen with email field is displayed.|
 |2\.|Enter valid email in the email field. |marijatakic7@gmail.com|Email is filled in the email field.|
 |3\.|Click the “NASTAVI DALJE” button.||The user received a pop-up message "Proveri svoj inbox". The user received a link to his entered email address. By clicking on that link, the user can successfully log in to the application. Also, the link that says "Vrati se nazad" appears to the user.|
-
+<hr>
 
 
 
@@ -78,7 +79,7 @@ Decision table
 | :- | :- | :- | :- |
 |1\.|Open the mobile application “MatchIT”.||Application is opened. Log in screen with email field is displayed.|
 |2\.|Click the “NASTAVI DALJE” button.||The user stayed on the same page and did not log in. Email is required.|
-
+<hr>
 
 
 
@@ -100,7 +101,7 @@ Decision table
 | :- | :- | :- | :- |
 |1\.|Click the “Profil” tab.||User navigated to the profile tab.|
 |2\.|Click the “Odjavi se” button.||User is successfully logged out. Registration page is displayed.|
-
+<hr>
 
 
 
@@ -132,4 +133,4 @@ Decision table
 |7\.|Enter a valid certification date in the calendar.|09\.05.2023.|The date is visible.|
 |8\.|Click the “Potvrdi” button.||The year 2023 is entered in the "Godina sertifikacije" field.|
 |9\.|Click the “Sacuvaj” button.||The user has successfully added the certificate. The user is redirected to the "Sertifikati" page. New added certificate is visible: The name of the certificate, the holder of the certificate and the year are visible. In addition, there are icons for editing and deleting certificates.|
-
+<hr>
