@@ -87,7 +87,7 @@ https://github.com/MarijaTakic/QA-portfolio-/blob/main/Video%20for%20bug%20repor
 
 **3.**
 
-**Summary:** Candidate profile and MatChat  -**  The data shown in percentages do not match.
+**Summary:** Candidate profile and MatChat - The data shown in percentages do not match.
 
 **Description:** On the candidate profile, the percentages displayed for "Tehnologije" and "Benefiti" do not match the percentages displayed in the *MatChat.*
 
