@@ -1,4 +1,4 @@
-**<hr>﻿Bug reports<hr>**
+**﻿Bug reports<hr>**
 
 **1.**
 
