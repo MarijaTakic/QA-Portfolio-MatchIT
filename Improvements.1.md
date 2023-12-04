@@ -1,4 +1,4 @@
-**Improvements**<hr>﻿
+**Improvements**﻿
 
 
 ﻿**Mobile application**<hr>﻿
