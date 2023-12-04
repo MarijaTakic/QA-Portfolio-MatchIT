@@ -16,6 +16,7 @@ The main tasks were:
 *Writing test cases
 
 *Writing a test run report
+<hr>
 
 **Testing**
 
