@@ -81,36 +81,9 @@
 |2\.|Click the “NASTAVI DALJE” button.||The user stayed on the same page and did not log in. Email is required.|
 <hr>
 
-
-
 **4\.**
 
 **Test Case ID:** TC4
-
-**Test Case name:** Logout
-
-**Description:** User logout from the application.
-
-**Precondition:**
-
-1. User navigated to the URL.
-1. User is logged in and the application is opened. 
-
-
-||Test Steps|Test Data|Expected Result|
-| :- | :- | :- | :- |
-|1\.|Click the “Profil” tab.||User navigated to the profile tab.|
-|2\.|Click the “Odjavi se” button.||User is successfully logged out. Registration page is displayed.|
-<hr>
-
-
-
-
-
-
-**5\.**
-
-**Test Case ID:** TC5
 
 **Test Case name:** Adding a certificate
 
@@ -134,3 +107,32 @@
 |8\.|Click the “Potvrdi” button.||The year 2023 is entered in the "Godina sertifikacije" field.|
 |9\.|Click the “Sacuvaj” button.||The user has successfully added the certificate. The user is redirected to the "Sertifikati" page. New added certificate is visible: The name of the certificate, the holder of the certificate and the year are visible. In addition, there are icons for editing and deleting certificates.|
 <hr>
+
+
+
+
+**5\.**
+
+**Test Case ID:** TC5
+
+**Test Case name:** Logout
+
+**Description:** User logout from the application.
+
+**Precondition:**
+
+1. User navigated to the URL.
+1. User is logged in and the application is opened. 
+
+
+||Test Steps|Test Data|Expected Result|
+| :- | :- | :- | :- |
+|1\.|Click the “Profil” tab.||User navigated to the profile tab.|
+|2\.|Click the “Odjavi se” button.||User is successfully logged out. Registration page is displayed.|
+<hr>
+
+
+
+
+
+
