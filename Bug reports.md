@@ -259,9 +259,9 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **Bug 2:**
 
-**Summary: “Kreiranje oglasa” page - Some parts of the text and some buttons do not fit in the frames.**
+**Summary: “Kreiranje oglasa” page - Some parts of the text and some buttons do not fit in the sections.**
 
-**Description:** On the "Kreiranje oglasa" page some parts of the text and some buttons do not fit in the frames. The text and buttons jump out of the frame and are not readable at all.	
+**Description:** On the "Kreiranje oglasa" page some parts of the text and some buttons do not fit in the sections. The text and buttons jump out of the sections and are not readable at all.	
 
 **Precondition:**
 
@@ -271,9 +271,9 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 1. Click the “+Dodaj oglas” button.
 
-**Actual result:** Buttons in the "Benefiti" section and words in the "Načini rada" jump out of their frame.
+**Actual result:** Buttons in the "Benefiti" section and words in the "Načini rada" jump out of their sections.
 
-**Expected result:** All words and buttons should be visible in their frame on any phone/laptop.
+**Expected result:** All words and buttons should be visible in their section on any phone/laptop.
 
 **Environment:** Chrome browser (Google DevTools) on resolution 320 x 658 (for example  Galaxy S9+).
 
