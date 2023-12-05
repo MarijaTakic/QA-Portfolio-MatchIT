@@ -1,8 +1,8 @@
-﻿**Bug reports**
+﻿**Bug reports**<hr>
 
 **1.**
 
-**Summary:** Profile tab - Some sections are cut off at the end of the page.
+**Summary: Profile tab - Some sections are cut off at the end of the page.**
 
 **Description:** In the profile tab, in the sections “Benefiti” and “Veštine i bedževi”, the last squares are cut. The frame of the squares in the last row is not visible.
 
@@ -27,8 +27,13 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Severity:** Low
 
 **Attachment:** 
-**
 
+![WhatsApp Image 2023-11-27 at 17 37 45](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/bd9949bb-dea2-4e36-927a-31bb51f5a849)
+![WhatsApp Image 2023-11-27 at 17 37 45 (1)](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/3bd20826-e106-4869-b6de-a663ad859767)
+
+
+
+<hr>
 
 
 
@@ -36,7 +41,7 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **2.**
 
-**Summary:** Profile - Technologies - User can check more technologies than the limit allows.
+**Summary: Profile - Technologies - User can check more technologies than the limit allows.**
 
 **Description:** In the profile tab, in the "Tehnologije" section, the user can check a maximum of 20 technologies, however, the counter does not work properly. In the attached video, the user can check 21 technologies, but the limit is 20.
 
@@ -64,7 +69,7 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Attachment:** 
 <https://drive.google.com/file/d/1znrC7kUvc3lwFFezHwELRaSg_7qJwlIE/view?usp=drive_link> 
 
-
+<hr>
 
 
 
@@ -85,7 +90,7 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **3.**
 
-**Summary:** Candidate profile and MatChat  -**  The data shown in percentages do not match.
+**Summary: Candidate profile and MatChat  - The data shown in percentages do not match.**
 
 **Description:** On the candidate profile, the percentages displayed for "Tehnologije" and "Benefiti" do not match the percentages displayed in the *MatChat.*
 
@@ -108,10 +113,17 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **Attachment:**
 
+![9](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/545db271-c25e-4323-bdf3-ade43aafb8e9)
+![8](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/cc25afe5-09b2-40c9-b11e-4723dfcf4c12)
+
+
+
+<hr>
+
 
 **4.**
 
-**Summary:** Job offer (Home page) does not match with the user's qualifications.
+**Summary: Job offer (Home page) does not match with the user's qualifications.**
 
 **Description:** On the homepage where jobs that user is compatible with appear, the job offer that appears says "Tehnologije 60%" matched, but when the user goes to his profile, in the technology section, totally other technologies are checked, so he has 0% matches with that job.
 
@@ -138,8 +150,7 @@ Telephone model: Xiaomi Redmi Note 9 pro.
 
 **Attachment:** 
 <https://drive.google.com/file/d/1TNVc-AV_wvaU7OlSst9HbEBY9CJSJIXI/view?usp=drive_link> 
-
-
+<hr>
 
 
 
@@ -160,7 +171,7 @@ Telephone model: Xiaomi Redmi Note 9 pro.
 
 **5.**
 
-**Summary:**  Profile - Technologies - The counter does not always show the correct number of checked technologies.
+**Summary:  Profile - Technologies - The counter does not always show the correct number of checked technologies.**
 
 **Description:** In the profile tab, in the "Tehnologije" section, the user can check a maximum of 20 technologies, however, the counter does not work properly. Sometimes the counter shows a number less than the technology checked. In the attached video, when the user tries to check 21th technology, the counter stays the same (20), then when the user unchecks that technology, the number on the counter decreases by one (19).
 
@@ -190,7 +201,7 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 <https://drive.google.com/file/d/1-O_75NPDstV33Kp-wzcqv0PVfIdELVX2/view?usp=drive_link> 
 
-
+<hr>
 
 
 
@@ -209,9 +220,10 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **Google DevTools**
 
+
 **Bug 1:**
 
-**Summary:** “Kreiranje oglasa” page -  Some text in placeholders is cut off.
+**Summary: “Kreiranje oglasa” page -  Some text in placeholders is cut off.**
 
 **Description:** On the "Kreiranje oglasa" page some text  in placeholder is cut off. These are the words "Država" and "Grad" (Lokacija) and "Izaberite" (Industrija).
 
@@ -235,7 +247,9 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **Attachment:**
 
+![devtools 1](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/728ba2cf-d91b-4ecf-b742-b3b8e429dbdb)
 
+<hr>
 
 
 
@@ -245,7 +259,7 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **Bug 2:**
 
-**Summary:** “Kreiranje oglasa” page - Some parts of the text and some buttons do not fit in the frames.
+**Summary: “Kreiranje oglasa” page - Some parts of the text and some buttons do not fit in the frames.**
 
 **Description:** On the "Kreiranje oglasa" page some parts of the text and some buttons do not fit in the frames. The text and buttons jump out of the frame and are not readable at all.	
 
@@ -269,9 +283,12 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **Attachment:**
 
+![devtools 2](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/b89268de-ba49-4505-8be4-9e1c705c4b8c)
+<hr>
+
 **Bug 3:**
 
-**Summary:**  "Oglasi" page - Page is cut off, it is not fully visible.
+**Summary:  "Oglasi" page - Page is cut off, it is not fully visible.**
 
 **Description:** On the "Oglasi" page, not all parts of the page are visible.
 
@@ -295,4 +312,9 @@ Phone model: Xiaomi Redmi Note 9 pro.
 
 **Attachment:**
 
+![devtools 5](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/c16edfb9-59f8-4596-86aa-b157a211f07b)
+![devtools 4](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/051eceef-b8af-4adb-8ee3-a5950b3489ab)
+![devtools 3](https://github.com/MarijaTakic/QA-Portfolio-MatchIT/assets/149474370/2b36d45c-50b7-4f15-a01d-2c2b40771036)
+
+<hr>
 
