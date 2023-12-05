@@ -1,4 +1,4 @@
-**﻿Bug reports<hr>**
+﻿**Bug reports**
 
 **1.**
 
@@ -27,10 +27,8 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Severity:** Low
 
 **Attachment:** 
-![WhatsApp Image 2023-11-27 at 17 37 45 (1)](https://github.com/MarijaTakic/QA-portfolio-/assets/149474370/2a45a97d-c5ec-4f10-afb7-866453af0560)
-![WhatsApp Image 2023-11-27 at 17 37 45](https://github.com/MarijaTakic/QA-portfolio-/assets/149474370/41e6969e-dd8c-4716-b0da-f2ccaafe11ea)
+**
 
-<hr>
 
 
 
@@ -64,8 +62,8 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Severity:** Medium
 
 **Attachment:** 
-https://drive.google.com/file/d/1znrC7kUvc3lwFFezHwELRaSg_7qJwlIE/view?usp=drive_link
-<hr>
+<https://drive.google.com/file/d/1znrC7kUvc3lwFFezHwELRaSg_7qJwlIE/view?usp=drive_link> 
+
 
 
 
@@ -87,7 +85,7 @@ https://drive.google.com/file/d/1znrC7kUvc3lwFFezHwELRaSg_7qJwlIE/view?usp=drive
 
 **3.**
 
-**Summary:** Candidate profile and MatChat - The data shown in percentages do not match.
+**Summary:** Candidate profile and MatChat  -**  The data shown in percentages do not match.
 
 **Description:** On the candidate profile, the percentages displayed for "Tehnologije" and "Benefiti" do not match the percentages displayed in the *MatChat.*
 
@@ -109,10 +107,7 @@ https://drive.google.com/file/d/1znrC7kUvc3lwFFezHwELRaSg_7qJwlIE/view?usp=drive
 **Severity:** High
 
 **Attachment:**
-![8](https://github.com/MarijaTakic/QA-portfolio-/assets/149474370/3b2759dc-fa90-46ef-96bd-d57f1c881939)
-![9](https://github.com/MarijaTakic/QA-portfolio-/assets/149474370/10ce53c4-0045-42b7-bc9a-4a1b6d30b2d2)
 
-<hr>
 
 **4.**
 
@@ -142,8 +137,8 @@ Telephone model: Xiaomi Redmi Note 9 pro.
 **Severity:** High
 
 **Attachment:** 
-https://drive.google.com/file/d/1TNVc-AV_wvaU7OlSst9HbEBY9CJSJIXI/view?usp=drive_link
-<hr>
+<https://drive.google.com/file/d/1TNVc-AV_wvaU7OlSst9HbEBY9CJSJIXI/view?usp=drive_link> 
+
 
 
 
@@ -192,5 +187,112 @@ Phone model: Xiaomi Redmi Note 9 pro.
 **Severity:** Medium
 
 **Attachment:** 
-https://drive.google.com/file/d/1-O_75NPDstV33Kp-wzcqv0PVfIdELVX2/view?usp=drive_link
-<hr>
+
+<https://drive.google.com/file/d/1-O_75NPDstV33Kp-wzcqv0PVfIdELVX2/view?usp=drive_link> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Google DevTools**
+
+**Bug 1:**
+
+**Summary:** “Kreiranje oglasa” page -  Some text in placeholders is cut off.
+
+**Description:** On the "Kreiranje oglasa" page some text  in placeholder is cut off. These are the words "Država" and "Grad" (Lokacija) and "Izaberite" (Industrija).
+
+**Precondition:**
+
+1. User is logged in and the web application [Match IT | Početna strana - Match IT](https://company.matchit.rs/job-offers) is opened.
+
+**Steps to reproduce:**
+
+1. Click the “+Dodaj oglas” button.
+
+**Actual result:** The words above are cropped and not fully visible on resolution 320 x 658 (for example Galaxy S9+).
+
+**Expected result:** All words should be visible on any phone/laptop.
+
+**Environment:** Chrome browser (Google DevTools) on resolution 320 x 658 (for example Galaxy S9+).
+
+**Priority:** Medium
+
+**Severity:** Low
+
+**Attachment:**
+
+
+
+
+
+
+
+
+
+**Bug 2:**
+
+**Summary:** “Kreiranje oglasa” page - Some parts of the text and some buttons do not fit in the frames.
+
+**Description:** On the "Kreiranje oglasa" page some parts of the text and some buttons do not fit in the frames. The text and buttons jump out of the frame and are not readable at all.	
+
+**Precondition:**
+
+1. User is logged in and the web application [Match IT | Početna strana - Match IT](https://company.matchit.rs/job-offers) is opened.
+
+**Steps to reproduce:**
+
+1. Click the “+Dodaj oglas” button.
+
+**Actual result:** Buttons in the "Benefiti" section and words in the "Načini rada" jump out of their frame.
+
+**Expected result:** All words and buttons should be visible in their frame on any phone/laptop.
+
+**Environment:** Chrome browser (Google DevTools) on resolution 320 x 658 (for example  Galaxy S9+).
+
+**Priority:** Medium
+
+**Severity:** Low
+
+**Attachment:**
+
+**Bug 3:**
+
+**Summary:**  "Oglasi" page - Page is cut off, it is not fully visible.
+
+**Description:** On the "Oglasi" page, not all parts of the page are visible.
+
+**Precondition:**
+
+1. User is logged in and the web application [Match IT | Početna strana - Match IT](https://company.matchit.rs/job-offers) is opened.
+
+**Steps to reproduce:**
+
+1. Go to the “Oglasi” page.
+
+**Actual result:** The "Oglasi" page is not entirely visible.
+
+**Expected result:** The entire page should be fully visible.
+
+**Environment:** Chrome browser (Google DevTools) on resolution 375 x 667; resolution 360 x 740; resolution 390 x 844 (for example iPhone SE, Samsung Galaxy S8+, iPhone 12 Pro).
+
+**Priority:** High
+
+**Severity:** High
+
+**Attachment:**
+
+
